@@ -6,5 +6,4 @@
       Paul Sabatier University Institute of Technology, France.
       Doing an internship in atmospheric sciences at the University of Wyoming
 - 📫 How to reach me : tristan.gayrard@etu.iut-tlse3.fr
-- ⚡ Fun fact: learnt to code on the go
 
