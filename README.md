@@ -6,6 +6,7 @@
       in Physical Measurements specialized in Materials and
       Physico-Chemical Controls
       Paul Sabatier University Institute of Technology, France.
+      Working as a apprentice metrologist.
 
 - 📫 How to reach me : tristan.gayrard@etu.iut-tlse3.fr
 
