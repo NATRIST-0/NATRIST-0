@@ -6,7 +6,7 @@ I’m interested in data analysis and visualization.
 ### 🌱 Education  
 I’m currently an undergraduate in Physical Measurements,  
 specialized in Materials and Physico-Chemical Controls  
-at the University of Toulouse III – Paul Sabatier, France.  
+at the University of Toulouse III, France.  
 I’m also working as an apprentice metrologist.
 
 ### 🛠️ Experience  
