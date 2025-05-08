@@ -1,4 +1,4 @@
-<h2> 👋 &nbsp;Hi, I’m Tristan Gayrard</h2>
+##👋 &nbsp;Hi, I’m Tristan Gayrard
 
 👀 I’m interested in data analysis
 
@@ -12,7 +12,7 @@
 
 📫 How to reach me : tristan.gayrard@etu.iut-tlse3.fr
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Self-Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"   alt="vscode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="vscode" width="40" height="40"/>
