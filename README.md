@@ -9,5 +9,5 @@
       Working as a apprentice metrologist.
 
 - 📫 How to reach me : tristan.gayrard@etu.iut-tlse3.fr
-
+<i class="devicon-arduino-plain"></i>
  
