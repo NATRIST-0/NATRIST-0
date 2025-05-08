@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hi, I’m Tristan Gayrard
+## 👋 **Hi, I’m Tristan Gayrard** 
 
 👀 I’m interested in data analysis
 
