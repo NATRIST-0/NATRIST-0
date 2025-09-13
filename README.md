@@ -7,12 +7,12 @@ especially when applied to Earth sciences and environmental research.
 
 ### 🌱 Education  
 I’m a graduate in **Applied Physics**, specialized in Materials and Physico-Chemical Controls.  
-I’ll soon be starting a Master’s degree in **Ocean, Atmospheric and Climate Sciences** at University of Toulouse III, France.  
-I’m also working as an apprentice **metrologist**.  
+Master student in **Ocean, Atmospheric and Climate Sciences** at University of Toulouse, France.  
+Was also working as an apprentice **metrologist**.  
 
 ### 🛠️ Experience  
 
-As an apprentice metrologist, I handle and monitor **measurement instruments**.  
+As an apprentice metrologist, I handled and monitored **measurement instruments**.  
 I also acted as an **accreditation substitute**, building the **COFRAC accreditation** process in *torque* and *thermostatic cartographies*.  
 
 
