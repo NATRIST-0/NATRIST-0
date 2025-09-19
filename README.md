@@ -30,7 +30,7 @@ I also acted as an **accreditation substitute**, building the **COFRAC accredita
 </p>
 
 ### 📫 Contact  
-You can reach me at: **tristan.gayrard@etu.iut-tlse3.fr**
+You can reach me at: **tristan.gayrard@utoulouse.fr**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-gayrard-552a3925b/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=internet-explorer&logoColor=white)](https://tristangayrard.wixsite.com/eportfoliocc3)
